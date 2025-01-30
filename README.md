@@ -10,3 +10,7 @@ A simple project to practice a few git/github workflows. Replace the contents of
 # Comment from Jessica Chen (jessicahc)
 
 I certainly agree that a big misconception is that software engineers only code. Being a software engineer also requires strong teamwork and effective communication, not only within their development teams but also with colleagues across different departments. Working in such collaborative environments provides more opportunities to connect with individuals from diverse backgrounds and cultures, offering experiences that may be less common in other fields. I think this collaborative aspect is what makes software engineering such a rewarding and enriching experience.
+
+
+## Comment by Chris Leu (cl3880)
+- I was also interested in medicine and started out as a Biology major! However, I took the Intro to Programming course as I had attempted to build iOS apps previously and wanted to gain more exposure to programming. While it may be harder to break into tech, I agree that a mentor is extremely helpful, and that tech is now just becomming more competitive, like how medicine is.
